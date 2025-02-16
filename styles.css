@@ -20,8 +20,8 @@ li:first-child{
 	font-size:22px;
 	background-color:white;
 }
-li:Third-to-last{
-	background-color:pink color;
+li:nth-child(3){
+	background-color:pink;
 }
 li:last-child{
 	background-color:white;
